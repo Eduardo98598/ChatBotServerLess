@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "netlify": "^23.11.1",
+    "netlify-cli": "^23.11.1",
+    "netlify-lambda": "^2.0.16",
+    "serverless-http": "^4.0.0"
+  }
+}
